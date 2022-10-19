@@ -1,0 +1,15 @@
+[ {
+  "codigoLeitor" : "123",
+  "nome" : "Joao",
+  "endereco" : "Rua B",
+  "telefone" : "(22) 99209-8001",
+  "prazoMaximoDevolucao" : null,
+  "matricula" : "200123"
+}, {
+  "codigoLeitor" : "123456",
+  "nome" : "Marcos",
+  "endereco" : "Rua 9",
+  "telefone" : "(23) 12312-3131",
+  "prazoMaximoDevolucao" : 15,
+  "matricula" : "989182"
+} ]

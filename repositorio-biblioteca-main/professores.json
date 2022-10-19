@@ -1,0 +1,78 @@
+[ {
+  "codigoLeitor" : "9876",
+  "nome" : "Nome",
+  "endereco" : "Endereço",
+  "telefone" : "(21) 90909-0909",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Disciplina"
+}, {
+  "codigoLeitor" : "8765",
+  "nome" : "Nome",
+  "endereco" : "Endereço",
+  "telefone" : "(22) 22222-2222",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Disciplina"
+}, {
+  "codigoLeitor" : "98766",
+  "nome" : "Joao",
+  "endereco" : "Rua B",
+  "telefone" : "22112123123",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Disciplina"
+}, {
+  "codigoLeitor" : "87655",
+  "nome" : "Maria",
+  "endereco" : "Rua R",
+  "telefone" : "2198978786",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Disciplina"
+}, {
+  "codigoLeitor" : "987871",
+  "nome" : "Fulano",
+  "endereco" : "Rua A",
+  "telefone" : "219837372",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Disciplina"
+}, {
+  "codigoLeitor" : "98762",
+  "nome" : "Marcela",
+  "endereco" : "Rua B",
+  "telefone" : "(21) 09989-8989",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Disciplina"
+}, {
+  "codigoLeitor" : "76542",
+  "nome" : "Alana",
+  "endereco" : "Rua A",
+  "telefone" : "(91) 82878-2368",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Disciplina"
+}, {
+  "codigoLeitor" : "12326",
+  "nome" : "Sergio",
+  "endereco" : "Rua 5",
+  "telefone" : "(21) 09012-9898",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Disciplina"
+}, {
+  "codigoLeitor" : "9886376",
+  "nome" : "Anselmo",
+  "endereco" : "Rua A",
+  "telefone" : "(21) 09928-1491",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : null
+}, {
+  "codigoLeitor" : "129389",
+  "nome" : "Aline",
+  "endereco" : "Rua L",
+  "telefone" : "(21) 09289-480 ",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Disciplina"
+}, {
+  "codigoLeitor" : "7627145",
+  "nome" : "Bruna",
+  "endereco" : "Rua N",
+  "telefone" : "(91) 29891-2380",
+  "prazoMaximoDevolucao" : 30,
+  "disciplina" : "Disciplina"
+} ]

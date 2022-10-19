@@ -1,0 +1,37 @@
+[ {
+  "codigoEx" : 1,
+  "dataAquisicao" : null,
+  "livro" : "A volta dos que não foram"
+}, {
+  "codigoEx" : 1,
+  "dataAquisicao" : null,
+  "livro" : "A Cabana"
+}, {
+  "codigoEx" : 1,
+  "dataAquisicao" : null,
+  "livro" : "As tranças do Careca"
+}, {
+  "codigoEx" : 1,
+  "dataAquisicao" : null,
+  "livro" : "Poeira em alto mar"
+}, {
+  "codigoEx" : 1,
+  "dataAquisicao" : null,
+  "livro" : "Como treinar seu dragão"
+}, {
+  "codigoEx" : 1,
+  "dataAquisicao" : null,
+  "livro" : "Blabla"
+}, {
+  "codigoEx" : 1,
+  "dataAquisicao" : null,
+  "livro" : "Alguma coisa"
+}, {
+  "codigoEx" : 1,
+  "dataAquisicao" : [ 2022, 10, 18 ],
+  "livro" : "Nada"
+}, {
+  "codigoEx" : 1,
+  "dataAquisicao" : [ 2022, 10, 18 ],
+  "livro" : "Alguma coisa"
+} ]

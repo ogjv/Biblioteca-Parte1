@@ -1,0 +1,9 @@
+[ {
+  "codigoEx" : 1,
+  "dataAquisicao" : [ 2022, 10, 18 ],
+  "livro" : "A cabana"
+}, {
+  "codigoEx" : 2,
+  "dataAquisicao" : [ 2022, 10, 18 ],
+  "livro" : "Poeira em alto mar"
+} ]
